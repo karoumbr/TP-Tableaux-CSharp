@@ -1,0 +1,8 @@
+D:\csharp projects\TPTableaux\TPTableaux\bin\Debug\TPTableaux.exe.config
+D:\csharp projects\TPTableaux\TPTableaux\bin\Debug\TPTableaux.exe
+D:\csharp projects\TPTableaux\TPTableaux\bin\Debug\TPTableaux.pdb
+D:\csharp projects\TPTableaux\TPTableaux\obj\Debug\TPTableaux.csproj.AssemblyReference.cache
+D:\csharp projects\TPTableaux\TPTableaux\obj\Debug\TPTableaux.csproj.SuggestedBindingRedirects.cache
+D:\csharp projects\TPTableaux\TPTableaux\obj\Debug\TPTableaux.csproj.CoreCompileInputs.cache
+D:\csharp projects\TPTableaux\TPTableaux\obj\Debug\TPTableaux.exe
+D:\csharp projects\TPTableaux\TPTableaux\obj\Debug\TPTableaux.pdb
